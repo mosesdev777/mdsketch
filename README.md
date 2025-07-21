@@ -68,7 +68,7 @@ Add the MD Sketch stylesheet to the `<head>` of your HTML file.
 
 If you prefer to host the files yourself, you can download a `.zip` file containing all the compiled CSS from our latest release.
 
-1.  Navigate to the [**Releases page**](https://github.com/mosesdev777/mdsketch/releases/tag/v1.0.0).
+1.  Navigate to the [**Releases page**](https://github.com/mosesdev777/mdsketch/releases/).
 2.  Under the latest release, click on `Source code (zip)` to download the project files.
 3.  Extract the archive and locate the `dist/md-sketch.min.css` file.
 4.  Copy that file into your project folder and link to it in your HTML like any local stylesheet.
