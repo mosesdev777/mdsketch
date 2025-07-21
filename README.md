@@ -1,7 +1,7 @@
 # MD Sketch
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-v1.0.0-brightgreen.svg)](https://github.com/YourGitHubUsername/mdsketch)
+[![Version](https://img.shields.io/badge/version-v1.0.0-brightgreen.svg)](https://github.com/mosesdev777/mdsketch/tree/main)
 
 A modern, lightweight, and responsive CSS UI framework built to extend Bootstrap's core, designed for rapid and elegant web development.
 
@@ -52,7 +52,7 @@ Add the MD Sketch stylesheet to the `<head>` of your HTML file.
     <title>My Awesome Project</title>
     
     <!-- MD Sketch CSS -->
-    <link rel="stylesheet" href="[https://cdn.jsdelivr.net/gh/YourGitHubUsername/mdsketch@v1.0.0/dist/mdsketch.min.css](https://cdn.jsdelivr.net/gh/YourGitHubUsername/mdsketch@v1.0.0/dist/mdsketch.min.css)">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mosesdev777/mdsketch@main/dist/md-sketch.min.css">
 </head>
 <body>
     <!-- Your amazing content goes here! -->
@@ -63,32 +63,25 @@ Add the MD Sketch stylesheet to the `<head>` of your HTML file.
 </html>
 ```
 
-**Important:** Replace `YourGitHubUsername` with your actual GitHub username and `@v1.0.0` with the specific version number you want to use from your releases. Using a specific version number is highly recommended for production stability.
 
 ### Option 2: Download the Files
 
 If you prefer to host the files yourself, you can download a `.zip` file containing all the compiled CSS from our latest release.
 
-1.  Navigate to the [**Releases page**](https://github.com/YourGitHubUsername/mdsketch/releases).
+1.  Navigate to the [**Releases page**](https://github.com/mosesdev777/mdsketch/releases/tag/v1.0.0).
 2.  Under the latest release, click on `Source code (zip)` to download the project files.
-3.  Extract the archive and locate the `dist/mdsketch.min.css` file.
+3.  Extract the archive and locate the `dist/md-sketch.min.css` file.
 4.  Copy that file into your project folder and link to it in your HTML like any local stylesheet.
 
 ```html
-<link rel="stylesheet" href="path/to/your/css/mdsketch.min.css">
+<link rel="stylesheet" href="path/to/your/css/mds-ketch.min.css">
 ```
 
 ## Documentation
 
 For full documentation on all components, utilities, and customization options, please visit our official documentation website (coming soon).
 
-## Contributing
 
-We love community contributions! However, this repository is for distribution files only. To contribute to the development of MD Sketch, please visit our source code repository:
-
-**[MD Sketch Development Repository](https://github.com/YourGitHubUsername/mdsketch-dev)**
-
-Please read our contribution guidelines there before submitting a pull request.
 
 ## License
 
